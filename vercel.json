@@ -1,0 +1,8 @@
+{
+	"rewrites": [
+		{
+			"source": "/view/:content_id",
+			"destination": "/api/view/:content_id"
+		}
+	]
+}

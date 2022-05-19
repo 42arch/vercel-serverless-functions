@@ -1,0 +1,10 @@
+{
+	"name": "vercel-serverless-functions",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@vercel/node": "^1.15.2",
+		"vercel": "^24.2.3"
+	}
+}
